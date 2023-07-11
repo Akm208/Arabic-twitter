@@ -1,0 +1,21 @@
+.main-feeds{
+    width: 100vw;
+}
+::-webkit-scrollbar-y{
+     display: none;
+ }
+
+ .upload::-webkit-file-upload-button {
+    visibility: hidden;
+  }
+.profileimg{
+    background-image: url(../../assets/twitter.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+ text-decoration: none;
+    background-position: center;
+}
+
+.emojiall{
+    background-color: aqua;
+}

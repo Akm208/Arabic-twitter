@@ -1,0 +1,10 @@
+
+
+
+#toggle:checked~label div.toggle-dot{
+    @apply translate-x-3; 
+}
+
+.navbar{
+    width: 100vw;
+}

@@ -1,0 +1,10 @@
+.pic{
+    background-image: url("../../assets/background1.jpeg");
+    height: 350px;
+    width: 750px;
+}
+@media screen and (max-width: 480px) {
+     .pic {
+      width: 400px;
+    }
+  } 
